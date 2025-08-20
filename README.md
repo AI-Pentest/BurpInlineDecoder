@@ -15,3 +15,14 @@ Supports multiple decoding methods including Base64, URL-safe, and Hex.
 2. Clone this repository:
    ```bash
    git clone https://github.com/Al-Pentest/BurpInlineDecoder.git
+   
+3. In Burp, go to **Extender → Extensions → Add**.
+   - Extension Type: Python
+   - Extension file: `BurpInlineDecoder.py`
+
+## Usage
+- Adjust the **From** and **To** delimiters in the code for your target strings.  
+- Run Intruder — decoded values will appear in the **Comment** column.
+
+## License
+MIT License. See [LICENSE](LICENSE).
