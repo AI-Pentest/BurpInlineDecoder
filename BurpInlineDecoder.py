@@ -12,7 +12,7 @@ from java.util import WeakHashMap
 
 import base64, binascii, zlib, json, re, urllib
 
-__version__ = "1.2.0"
+__version__ = "1.0.0"
 
 # ---------------- helpers ----------------
 
@@ -428,3 +428,4 @@ class BurpExtender(IBurpExtender):
         tab = GrepXTab(callbacks)
         callbacks.addSuiteTab(tab)
         callbacks.registerHttpListener(LiveDecoder(callbacks, tab))
+
