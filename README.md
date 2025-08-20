@@ -5,11 +5,11 @@
 It mirrors the familiar *Grep – Extract* experience: choose **between delimiters** *or* a **regex capture group**, then pick a decoder (Base64, URL-safe Base64, Hex → Text, URL decode, Gzip/Deflate, JWT header+payload, JSON pretty).
 
 <p align="center">
-  <img src="assets/ui-compact.png" alt="BurpInlineDecoder configuration UI (compact layout)" width="900">
+  <img src="ui-compact.png" alt="BurpInlineDecoder configuration UI (compact layout)" width="900">
 </p>
 
 <p align="center">
-  <img src="assets/intruder-results.png" alt="Decoded output in the Intruder results Comment column" width="900">
+  <img src="intruder-results.png" alt="Decoded output in the Intruder results Comment column" width="900">
 </p>
 
 ---
