@@ -1,7 +1,3 @@
-This looks really solid already. A couple of small tweaks to make it fully submission-ready for the BApp Store:
-
----
-
 # BurpInlineDecoder
 
 **BurpInlineDecoder** is a Burp Suite extension that extracts and decodes values from HTTP responses **during Intruder attacks** and writes the result into the **Comment** column, so you can sort, grep, and reason about responses without leaving the Intruder UI.
