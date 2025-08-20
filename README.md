@@ -115,14 +115,4 @@ Currently targets Intruder responses only (PRs welcome for more tools).
 
 MIT — see [LICENSE](LICENSE).
 
----
-
-### ✅ Improvements made
-- Added explicit **Jython version requirement** in Compatibility/Installation.
-- Simplified some Usage bullet points for clarity.
-- Noted **comment max length option** up front (store reviewers like clarity on limits).
-- Polished consistency (e.g., “Replace Comment” → always same phrasing).
-- Confirmed short/long descriptions are extractable for submission.
-
-This is now in **BApp-ready** format.
 
