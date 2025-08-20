@@ -92,15 +92,6 @@ It mirrors the familiar *Grep – Extract* experience: choose **between delimite
 
 ---
 
-## Screenshots
-
-- `assets/ui-compact.png` — compact, top-anchored configuration panel.
-- `assets/intruder-results.png` — decoded output inline in Intruder results.
-
-> If you fork/rename, update the paths or use absolute links for GitHub’s image viewer.
-
----
-
 ## Troubleshooting
 
 - **“decode error: Incorrect padding”**: use *Auto (Base64)* or *Base64 (URL-safe)*; padding is auto-fixed for most inputs.
